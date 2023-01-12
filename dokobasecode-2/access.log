@@ -1,0 +1,10 @@
+POST /site/generateproduct 200 49 - {} - 9914.913 ms 2023-01-11T19:47:20.458Z
+POST /site/getcache 200 45 - {} - 1.958 ms 2023-01-11T19:48:21.746Z
+POST /site/clearcache 200 58 - {} - 1.153 ms 2023-01-11T19:49:03.632Z
+POST /site/getcache 200 52 - {} - 0.431 ms 2023-01-11T19:49:09.780Z
+POST /site/getcache 200 44 - {} - 4.861 ms 2023-01-11T19:49:53.668Z
+POST /site/clearcache 200 58 - {} - 1.146 ms 2023-01-11T19:50:08.655Z
+POST /site/generateproduct 200 49 - {} - 2992.931 ms 2023-01-11T19:50:30.534Z
+POST /site/getcache 200 45 - {} - 1.456 ms 2023-01-11T19:50:41.192Z
+POST /site/clearcache 200 58 - {} - 0.560 ms 2023-01-11T19:50:48.829Z
+POST /site/getcache 200 44 - {} - 0.331 ms 2023-01-11T19:50:55.195Z
